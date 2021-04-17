@@ -1,0 +1,31 @@
+.suggession-item-group{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+
+.suggession-img-div{
+    max-width: 90px;
+    max-height:90px;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+.suggession-img-div img{
+    height: auto;
+    width: 100%;
+}
+
+.suggession-body{
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+    justify-content: space-evenly;
+    padding: 0 15px;
+}
+
+.star-img img{
+    width: 70px;
+}

@@ -1,0 +1,95 @@
+.ProductCard{
+    width: 100%;
+    height: 250px ;
+    border: solid 0.5px lightgray;
+    box-shadow: none;
+    padding: 8px;
+    position: relative;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 0;
+    
+}
+
+.sale-bar{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    padding: 3px 8px;
+    background-color: rgba(249,88,88,255);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+
+.image-div{
+    height: 70%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.ProductCard img{
+    width: 100%;
+    height: auto;
+}
+
+.ProductCard-body{
+    text-align: center;
+    font-size: 12px;
+}
+
+.ProductCard-body span {
+    font-style: italic;
+}
+
+@media only screen and (min-width: 600px) {
+    .ProductCard{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 250px;
+        padding: 0;
+    }
+    .image-div{
+        height: 75%;
+    }
+
+    .sale-bar{
+        font-size: 15px;
+    }
+
+    .ProductCard-body{
+        margin:15px 0;
+        font-size: 13px;
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (min-width: 1100px) {
+    .ProductCard{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+        border: 0;
+        border-radius: 5px;
+        height: 350px;
+        padding: 0;
+    }
+
+    .image-div{
+        height: 75%;
+    }
+
+    .sale-bar{
+        font-size: 18px;
+    }
+
+    .ProductCard-body{
+        margin:15px 0;
+        padding: 0 10px;
+        font-size: 15px;
+    }
+}

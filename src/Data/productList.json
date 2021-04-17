@@ -1,0 +1,248 @@
+[
+    {
+      "category": "kids",
+      "name": "Water sandals for unisex children",
+      "price": 16.2,
+      "is_discounted": "TRUE",
+      "discounted_price":15,
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/F4/F0/a72f7113-7b4a-4677-84f4-d6b4466a40f3.jpg",
+      "id": "SKUF46386"
+    },
+    {
+      "category": "kids",
+      "name": "Unisex Kids Comfy garden water hoof shoes",
+      "price": 6.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/75/34/6802aef2-ca27-43c3-916e-9e1b247c74db.jpg",
+      "id": "SKUF43614"
+    },
+    {
+      "category": "kids",
+      "name": "Beach sandals for boys",
+      "price": 12.45,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/CA/7E/a18ba779-63c0-433b-b1fa-5ea22e10d7e0.jpg",
+      "id": "SKUB67845"
+    },
+    {
+      "category": "accessories",
+      "name": "Face-protective insulation masks",
+      "price": 9.99,
+      "is_discounted": "TRUE",
+      "discounted_price":8,
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/2E/72/1c322075-7a7a-474d-976e-6bcbc45daaec.jpg",
+      "id": "SKUF08305",
+      "topProduct":true
+    },
+    {
+      "category": "accessories",
+      "name": "outdoor baseball cap",
+      "price": 9.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/0D/0D/a735a697-871f-4bea-b92d-19947ff8f328.jpg",
+      "id": "SKUF11351"
+    },
+    {
+      "category": "accessories",
+      "name": "Flat Hat - Vintage Painter Beret Hats",
+      "price": 17.49,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/30/CE/5f9c589f-81f7-48c4-a24c-4ba41cdf3718.jpg",
+      "id": "SKUE50978"
+    },
+    {
+      "category": "accessories",
+      "name": "Multicolored cotton flower mask",
+      "price": 5.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/E6/1D/834076a4-45ea-476c-8f45-bbe1b95db3d7.jpg",
+      "id": "SKUE76490",
+      "topProduct":true
+    },
+    {
+      "category": "accessories",
+      "name": "Outdoor fishing hat for men",
+      "price": 13.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/66/A2/1c551fef-742d-4381-8e99-9924622b3c24.jpg",
+      "id": "SKUE75375"
+    },
+    {
+      "category": "accessories",
+      "name": "A multi-tool leather sheath - waist buckle belt",
+      "price": 22.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/6F/BD/6d143095-4942-4ec1-b4ca-c73522f5e3a1.jpg",
+      "id": "SKUF57496"
+    },
+    {
+      "category": "accessories",
+      "name": "7.2-inch EDC Retro leather belt bag",
+      "price": 23.42,
+      "is_discounted": "TRUE",
+      "discounted_price":20,
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/C7/71/c5ca782d-5178-4303-908e-cbf855708542.jpeg",
+      "id": "SKUE46942"
+    },
+    {
+      "category": "accessories",
+      "name": "6.5-inch men's leather bag for EDC",
+      "price": 21.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/9D/65/13565348-856d-408e-8eae-3ec4340ac2db.jpg",
+      "id": "SKUF31609"
+    },
+    {
+      "category": "accessories",
+      "name": "EDC leather 6.3-inch phone bag",
+      "price": 19.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/0B/A6/ffcdc1a3-c544-4045-9d6b-e3289e19a1d2.jpg",
+      "id": "SKUF18782"
+    },
+    {
+      "category": "accessories",
+      "name": "Printed canvas bag flower for women",
+      "price": 33.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/58/02/02c4b6ef-6b54-4706-86b1-8bf6f3810ace.jpg",
+      "id": "SKUF51272"
+    },
+    {
+      "category": "beauty",
+      "name": "Professional curling iron",
+      "price": 38.51,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/A0/FF/06900858-4170-4ad2-9af9-2a093664c609.jpg",
+      "id": "SKUE97846"
+    },
+    {
+      "category": "beauty",
+      "name": "Professional permanent laser stretcher",
+      "price": 79.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/D7/97/f24f2ef8-bd90-4f55-b81f-d2f4a7dfde53.jpg",
+      "id": "SKUF44536"
+    },
+    {
+      "category": "beauty",
+      "name": "Muscle relaxing masseur",
+      "price": 97.74,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/ser1/newchic/images/33/95/6bd60d79-7665-4de9-a0a6-7709c34aff65.jpg",
+      "id": "SKUD40912"
+    },
+    {
+      "category": "automobile",
+      "name": "Folding electric Vehicle",
+      "price": 1899.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/F4/5A/905d5244-21d7-4f5c-96b1-cd20cce06eed.jpg",
+      "id": "SKUF20759"
+    },
+    {
+      "category": "shoes",
+      "name": "Men silk fabric shoes",
+      "price": 36.4,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/8E/09/5e11adf5-7896-4950-9a53-cab0db072904.jpg",
+      "id": "SKUF29428"
+    },
+    {
+      "category": "shoes",
+      "name": "Men's plaid leather shoes",
+      "price": 46.36,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/D7/4C/dba63315-dc00-44fc-bd1f-31723795a91c.jpg",
+      "id": "SKUC99128"
+    },
+    {
+      "category": "shoes",
+      "name": "Leather shoes for men",
+      "price": 43.38,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/47/D5/4b4406f4-ef3c-45b6-a986-cc3bbe4a5533.jpg",
+      "id": "SKUE68011"
+    },
+    {
+      "category": "shoes",
+      "name": "Flat Knitting shoes",
+      "price": 19.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/B6/63/ab349d9c-106a-498f-af01-65c40c4a31c7.jpg",
+      "id": "SKUD85085"
+    },
+    {
+      "category": "shoes",
+      "name": "Men's Leather Peeling Soft Sole Casual Shoes",
+      "price": 46.18,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/88/5E/bce7121c-9113-415e-858b-b26b8c74c06b.jpg",
+      "id": "SKUC15622"
+    },
+    {
+      "category": "clothing",
+      "name": "Reduced belly thinning underwear",
+      "price": 16.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/ser1/newchic/images/52/73/892835b1-4f02-4e35-a73c-0004fe3ff494.jpg",
+      "id": "SKUE30713"
+    },
+    {
+      "category": "clothing",
+      "name": "Short-sleeved shirts - stripes",
+      "price": 17.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/1A/B9/a3cf3082-931e-41c4-8fee-8ea0815c5b08.jpg",
+      "id": "SKUF37566"
+    },
+    {
+      "category": "clothing",
+      "name": "Cosy Modal Underwear Pouch",
+      "price": 8.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/59/EF/ed389866-bcf0-4675-b470-50a5640c5375.jpg",
+      "id": "SKUF24928",
+      "topProduct":true
+    },
+    {
+      "category": "clothing",
+      "name": "Comfortable cotton and linen pyjamas",
+      "price": 31.35,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/DE/B2/f48684e2-845c-4102-87d1-60cdeb6c5daa.jpg",
+      "id": "SKUE87235"
+    },
+    {
+      "category": "clothing",
+      "name": "Short-sleeved and floral-printed T-shirt",
+      "price": 23.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/FD/17/84b3ee75-de8d-40b2-b1f5-93c62436255b.jpg",
+      "id": "SKUF40137"
+    },
+    {
+      "category": "clothing",
+      "name": "Elastic trousers for women",
+      "price": 25.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/05/A9/f908379b-4128-4270-8933-e724653b2a28.jpg",
+      "id": "SKUE94621"
+    },
+    {
+      "category": "clothing",
+      "name": "Women Floral tops",
+      "price": 23.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/3A/20/bd1ec57a-875d-44ed-92e8-a7d487075dc1.jpg",
+      "id": "SKUF41372"
+    },
+    {
+      "category": "clothing",
+      "name": "Embroidered floral T-shirt",
+      "price": 15.99,
+      "is_discounted": "FALSE",
+      "image_url": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/82/A2/d234e908-188c-4493-9f3c-9ae7a4275259.jpg",
+      "id": "SKUE83526"
+    }
+  ]

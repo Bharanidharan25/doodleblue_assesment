@@ -1,38 +1,95 @@
-.App {
-  text-align: center;
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 40px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header{
+    position: fixed;
+    top:0;
+    left: 0;
+    width:100%;
+    padding:15px 0;
+    background-color: #fff;
+    z-index: 2;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header-div{
+    font-weight: bold;
+    text-transform: capitalize;
+    display:flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.title{
+    font-size: 30px;
+    font-weight: 400;
 }
 
-.App-link {
-  color: #61dafb;
+.header button{
+    font-size: 15px;
+    background-image: linear-gradient(to right,rgba(248,119,85,255),rgba(250,67,90,255));
+    border: none;
+    color: white;
+    border-radius: 3px;
+    padding: 10px 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.header button:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
+
+.left-side{
+    padding-right: 50px; 
+}
+
+.left-side:not(:first-child){
+    margin: 20% 0;
+}
+
+.left-side-heading{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 10px;
+
+}
+
+.left-div{
+    margin-top: 15px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .left-side{
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    body{
+        padding: 10px;
+    }
+
+    .header{
+        width: 100%;
+        left: 0;
+        padding: 15px;
+    }
+    
+    .header-div{
+        width: 100%;
+    }
+
+    .header button{
+        padding: 7px 12px;
+    }
+
+    .title{
+        font-size: 28px;
+    }
+}
+

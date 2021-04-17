@@ -1,0 +1,37 @@
+.slider-button{
+    font-size: 15px;
+    background-image: linear-gradient(to right,rgba(248,119,85,255),rgba(250,67,90,255));
+    border: none;
+    color: white;
+    border-radius: 3px;
+    padding: 2px 8px;
+}
+.slider-body{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.slider-button:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.slider-price-text{
+    font-size: 13px;
+    font-weight: 500;
+}
+.rc-slider-track{
+    background-color: lightgray;
+}
+.rc-slider-handle{
+    border: 2px solid lightgray;
+    background-color: lightgrey;
+}
+
+.rc-slider-handle:hover 
+{
+    border: 2px solid #F95858;
+}
+.rc-slider-handle-click-focused:focus{
+    border: 2px solid #F95858;
+}
